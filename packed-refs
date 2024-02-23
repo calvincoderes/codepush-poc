@@ -1,0 +1,142 @@
+# pack-refs with: peeled fully-peeled sorted 
+24e1dcf7c162e3c44cadc6810511567e53abe2c1 refs/remotes/origin/bugfix/bon/search-property-filters
+a1b0863c60aa745ca3ce5107794515b11c1f56d5 refs/remotes/origin/bugfix/brigs/1.3.9
+7df1be77d4985a03c6396941c7c5b9b7525585ab refs/remotes/origin/bugfix/roxxy/1.4.0
+a8be2e42ce54b984d5687189f6cdda1b2e30d2a0 refs/remotes/origin/chore/rename-android-package
+f98b89a4fb688e403630f403a76721763d61f63c refs/remotes/origin/develop
+226ffacfad7a4421b55a8bc7dcfda2c82911ee3f refs/remotes/origin/feat/865crr5q3-firebase-analytics
+4024a18b8ee0ce03c70de200f61a35fd9c34ab24 refs/remotes/origin/feat/token-refreshing
+8156e073e071a4abdd72d2bfcaae24d8bda85e31 refs/remotes/origin/fix/865ctg5t4-keyboard-submit-bottomsheet-dismissing
+228f221ce6e87911ac8ef30f148824b71f743c96 refs/remotes/origin/fix/bon/multiple-favorites-fixes
+184f4f78a9dae7c09122afb033d92d33c11026d4 refs/remotes/origin/fix/spiel-search-again
+60d49a01e093550c70887c688a634b050097743f refs/remotes/origin/hotfix/bon/favorites-&-authmodal
+1c92478489da325bf5d8636fa941d1c3286d8426 refs/remotes/origin/hotfix/bon/favorites-screen
+11edaffeb6f6ac60a0275bf5ad325c71fec569e8 refs/remotes/origin/hotfix/bon/terms-privacy-policy-linking
+057ac3e9df93b57bcf46030c244da7b2643faedc refs/remotes/origin/main
+c410616e046b6f8bfef223d44c366e2a79aad4ad refs/remotes/origin/release/1.3.8
+10e55d6e7cb77e5e26972e1fdeb94775b19c8329 refs/remotes/origin/release/1.3.9
+07a3a05f37e8cc78f5cd206a097be452f85a30e4 refs/remotes/origin/release/1.4.0
+5f41d7bf6b9e02264db4d6ef7719cd1b37abfca3 refs/remotes/origin/task/bon/cloudinary-utility-integration
+22348f7376d317f4cedd577003ac5367b15789a8 refs/remotes/origin/task/bon/fast-image-integration
+8be68fc782e3bc75d93c5a1465700c9d847ee3b2 refs/remotes/origin/task/bon/favorite-screen
+57405ea38276f667e3c041009dca768d0005090e refs/remotes/origin/task/bon/filter-redux-implementation
+89c5187a7c1c979490d0f70d2f33fda8478e0eb3 refs/remotes/origin/task/bon/map-api-key
+6a648a8a8319cd0ed763448e3adcbd426d39c74a refs/remotes/origin/task/bon/mpp-polishing
+44b934f1369a4ac0c2132994f71248aaf31698f7 refs/remotes/origin/task/bon/multiple-improvement-fix
+98939cbc62d37a52529024169138bb9cf18dc346 refs/remotes/origin/task/bon/redux-persist
+23301f6d80bf5dce29bba9aa44d0e5056fead243 refs/remotes/origin/task/bon/saved-search-feature
+c521c7aaa85e1e1648c457c4b06dcbfae06915d4 refs/remotes/origin/task/bon/saved-search-functionalities
+f95ee8a8a470e394b9da74beccd35858ae380f38 refs/remotes/origin/task/bon/search-filters-integration
+383ff77237bed1faae6b4948baa6d4e9b76761df refs/remotes/origin/task/bon/sentry-monitoring-implementation
+af890d57326ce10517e1ca695abed0669bca9ae2 refs/remotes/origin/task/bon/style-components-fix
+c00e90124e5a226b3177e2feaf8d5b894ef3201f refs/remotes/origin/task/bon/suburb-search-nav
+bb069b9211b1a302f05e96427ea90ce34f997163 refs/remotes/origin/task/brigs/#865d0vb1g-offmarket-hyphen
+879b931f0f554b2ecde2d3fcf577730d40d094f1 refs/remotes/origin/task/brigs/-save-search-integration
+f656778569b61bd1207247526ca5915a349ac1cd refs/remotes/origin/task/brigs/CU-865d7jq13-property-tags
+1b315d8da531453c08be709baaa1c72f252093c5 refs/remotes/origin/task/brigs/ENV-UPDATES
+a7c0f42bd6ccfc49da907116ea98d7422d033037 refs/remotes/origin/task/brigs/brand-components-partial
+4f92a8cd73920827516f0b462aea9320cf44f088 refs/remotes/origin/task/brigs/dump-components-update
+d6370c0a0029f3753530626e0665e2cf309da8cf refs/remotes/origin/task/brigs/property-details-garage
+fda2ccdac1daa01a277dc827385429a826a018c7 refs/remotes/origin/task/roxxy/865crr5qk-mixpanel
+d6734b5c588a6416d3965a8c08eb4ffe51298779 refs/remotes/origin/task/roxxy/865d2upug-codepush
+b0684ff5d94c80eb889cd6f18332dfd4f647932e refs/remotes/origin/task/roxxy/CU-865d1maxx-firebase-fcm
+c858b7f7a18bff30c5eb2ffc01f1d48248167cf4 refs/remotes/origin/task/roxxy/CU-865d4x1g8-mpp-rental-filter
+0e44b4bcdc91566a02c8c142b2f959459a8081cc refs/remotes/origin/task/roxxy/CU-865d4x1tn-favorites-filter
+4a12abb7cedd936ef23d8766f90998738156ca4b refs/remotes/origin/task/roxxy/CU-865d6d699-firebase-analytics
+349151f507bd2b64117954e9e0e4d976cf94dbe6 refs/remotes/origin/task/roxxy/CU-865db7n34-fix-refreshtoken
+552e7513c25df50c1bc9bea297e7c87b5f6e217c refs/remotes/origin/task/roxxy/CU-865db7n4q-translucent-border
+dc0ca06299737d7a0b4b802c2701b861d5f76a00 refs/remotes/origin/task/roxxy/fix-add-email-subject
+e92b8670d892e5640b4daa97bb6a65b3050971bf refs/remotes/origin/task/roxxy/fix-cloudinary-format
+98ebb0e33cce9296b5de3d3d68917166c5a78c9b refs/remotes/origin/task/roxxy/fix-contact-us-message-flicker
+87ae18422e1b84c51c73b53927435ad41ea06daf refs/remotes/origin/task/roxxy/fix-keyboard-next-field
+5171533fe31752802bc0bfc1df1dc183e1616c4b refs/remotes/origin/task/roxxy/property-details-screen
+79c06eafb1fc43443d08dbb30a4b0d6379600039 refs/remotes/origin/task/roxxy/updates_ver_1_3_9
+e1c0a7ffd29bb8f478fcda9ef1d15fb99d6ac8e6 refs/remotes/origin/task/russel/favorites-ui
+aac87463b5707ad79bbf19fc497c0af7598d753d refs/remotes/origin/task/russel/saved-searches
+64555a31c6fde89096b1b7eade816bd224b7ee4a refs/tags/demo/v1.2.1-100023
+^7031bbe8c16a0c681be80f1109fdf873c391f457
+13bd2f164c2867ef011ee79838d3e08caefa80f9 refs/tags/demo/v1.2.7-100034
+5aaa3cf4c6cc1770d2ae76d955cb102c80854e8f refs/tags/demo/v1.2.8-100039
+ca5606eace6d4892db2f31a7b7ff22a899fcd276 refs/tags/demo/v1.3.0-100041
+^2855d3b887ee27cae755d7e53991c44ef8b3250e
+dc71d66e20ffe31f3769a1568ac2b5578b25096c refs/tags/demo/v1.3.2-110045
+^a7e2db8bdeb949de7b12dfd6c4dfbc05804fee36
+3076554e698a351054a9472c81956d6cbb6489fa refs/tags/demo/v1.3.2-110046
+c8b85b573eba9b3120d330be9b0ae7fa0f86ff01 refs/tags/demo/v1.3.2-110048
+^dac8383d9414ccf457e187f6c862f29ce13dd480
+0c024082a7b8276de6fffd785fea258e44f5ce01 refs/tags/demo/v1.3.3-110049
+^5ece4ba868e6568a15ae6827034151057b327feb
+ba7a312b61b061edea16218d43977401aea3ab9f refs/tags/demo/v1.3.3-110050
+^3d08c5839f1d17f46b252e99e438fe80c8992f8b
+c078e9dc2dbfebee5eb6b614ae3d71c06c2c9a30 refs/tags/demo/v1.3.3-110051
+^178b6a6e8372f04ec46c5c6050b6158f75f3cea3
+d2c88c47558c13a66f78bc2f690338c3dccf868b refs/tags/demo/v1.3.3-110052
+^6601697bfef0cf813fd77c8f480f2b1646377f87
+61e36a74dcbf29c827e6ed56e9a0558e1acda18f refs/tags/demo/v1.3.3-110054
+^94e0593e827d5f11b28e4f3368418a6aacb61dab
+8fef76f328c0ba30f4132400b39a05a67f01681e refs/tags/demo/v1.3.5-110068
+^fee4c5ec4676955a7185dd9a0c8e8b841a929ad1
+bc698bb445c840ad547baef6ecf42c22f077aeca refs/tags/demo/v1.3.7-110078
+^f7a899c33042a3f2fdb67e2b603900f0a4c4a435
+9deb43b054ab0a377bee4cb528d13cfd949e71e6 refs/tags/demo/v1.3.7-110079
+^47e0947baea16cfbe30d8e55d8c7df60e1893457
+d4588460ebc46aa3ed92ce96a8152f4627bda8f9 refs/tags/patch/v1.3.9-110082
+^c2da83af75b9a74f8ab65c687d7fcf22938ca719
+00515f583d7e0cce36f342b9dced1d1473ebbbbc refs/tags/patch/v1.3.9-110083
+^441fb39193d58fe0ad152943104c668bfba1fafb
+66cc9ca53c17f7dad966d934f2bebb989b30bc94 refs/tags/release/v1.2.1-100025
+^4e17f1de85a6e8f95ef00671aa5bf5fda93524b4
+5f3da1493a56005d4affe96e0ef967e326a73b20 refs/tags/release/v1.2.2-100026
+^d9a54144ee989bfc7112c775dc5c15c7e96fcdcc
+4c70f3c16e4325d3c2156e6a2872ee864de242ff refs/tags/release/v1.2.3-100027
+^b3a9c6b28a5e3dff9228c2c83e71718746d301de
+2e1968820cff2a08ab783bdd836d23a70d9c4591 refs/tags/release/v1.2.4-100031
+^f1505c312cf230872375c1df044b72c601cbcbd2
+d3c6e542352b144a96e11b0717fa6206060a3898 refs/tags/release/v1.2.6-100033
+^04b311c970dafd250722aebc3ff81c785bcb714d
+948043d6683c381a6fb72fa22048eab96b2c4395 refs/tags/release/v1.2.7-100035
+41ca873f0a2519438c16db049e7b6ab7004fb9f4 refs/tags/release/v1.2.7-100036
+196101cec1ec7cd9a568151b062373437c869e2b refs/tags/release/v1.2.8-100038
+^b6d4153a3517b62542b4b057e30a8456a58cfcb3
+a97e6947204c1ef6a90abb6b25078f46e30edede refs/tags/release/v1.2.9-100040
+735c83977669698e40311b0a897a22a787fca51c refs/tags/release/v1.3.0-100043
+8f1f2a7fd985acc2a228fd7e73f58d5128c664e7 refs/tags/release/v1.3.1-100044
+52f579ffcbed74a815788877acd0c0af48870560 refs/tags/release/v1.3.2-110047
+5f6a47f1d4598a59cd0129ad2636cf6f24d649a5 refs/tags/release/v1.3.3-110055
+^620115976592a784e5758ab8d7caf39b24231173
+29467331fef3676b7c2b133302a944e7789357a7 refs/tags/release/v1.3.3-110056
+^d8ed60602e95e69c63f1767a41cb97d83b11185f
+a1d27f2d1540492ca1b0b6ee96098545afb2d006 refs/tags/release/v1.3.3-110060
+^302ded9133288b1e5aa89d4fd9462b78111a2e28
+3672a8c0a51a8fb529fb4129a3e301b18e6d043a refs/tags/release/v1.3.4-110063
+^39e0eddb7ccad05e1687afdacaad0ca101d09b4d
+154274f663365c490153beec45ed92525ef69081 refs/tags/release/v1.3.5-110069
+^9c26443fdaa4a827b0f74bfd85bacadff6ce84bf
+262e93181a065c10748fd7577e515ad4154e8562 refs/tags/release/v1.3.5-110070
+^e8c68d2876e88c6af1d1f4eb1f44b45ad0055e99
+ef5885a3e4a9d5987abe23601120c7c10c7d8156 refs/tags/release/v1.3.6-11077
+^8e2a1dc560d7e2d246a9a2ecb34db7456ff2ed32
+b1c321c74d8ecff6f89a4198b9b61150cc429c5f refs/tags/release/v1.3.7-110080
+^c5dc1160e2cac6ef847bb56b241ae275180ef2ad
+f8b5fb1dd993321ac76ba8633d9f6a695c7a4bee refs/tags/release/v1.3.8-110081
+^a49a7449aee713ee053b43ed8e3da7b741a4cac4
+0186ad8205ea2b771d2a20bfd77ced05e8115853 refs/tags/release/v1.3.9-110087
+^057ac3e9df93b57bcf46030c244da7b2643faedc
+fc7cd3db510e35e80f3b8eb51cd54f36bbeefa95 refs/tags/v1.0.1_B2
+^493a21b82fa6c7d4f9032425040b289a3f5e32aa
+12093dec50b364c392a696655376965b0dd6acd7 refs/tags/v1.1.0
+^a9c2d17051d57d94473cb6be5cc0342eb4973873
+9d701d4d3f596414dca5d34741d405395306f076 refs/tags/v1.1.0-iOS-build-7
+^50aa67b8f2887363c1040415f60697d5c07b47d7
+257039280e1157a1a491e2064488967186e343fb refs/tags/v1.2.0-100015
+^b93fa445c2bacbdeb7dbf4545dda53c9a686d5a2
+3927a4487247676e6937f1186cc2c6fde8d7fab8 refs/tags/v1.2.0-100016
+^378b9f4c086dc202e050f4a0952cf6dd92670de3
+76bf6cdb17c7cc785ed49aa8dbbc76a947ada112 refs/tags/v1.2.0-100017
+^25cfdc59caf4f5accfe598f8b7440ddf6eaf909f
+358616eb74d5c268e9318eea06b27e827b3e9286 refs/tags/v1.2.0-100018
+^a9ccfd0e0a5588800e1030503c345543afc48ae2
+2ac6a99cf5b6874e58222a3606191fe58a421f23 refs/tags/v1.2.0-100019
+^14d93011036590b26519d716503cd8fa7ca83310
+890df5fec3eae803f73b5cc79f53b200d3d89644 refs/tags/v1.2.0-100020
+^bd0b1058b171c2088cb6ea909ba144f1f67a29a9

@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 cd4760d4886575ed66fbac5ac1124c383c53f369 Calvin Coderes <calvin.c.r.coderes@gmail.com> 1703816861 +0800	branch: Created from HEAD
+cd4760d4886575ed66fbac5ac1124c383c53f369 e6ce0bd852e54000e0c359d039387a4c08f6914e Calvin Coderes <calvin.c.r.coderes@gmail.com> 1703816914 +0800	commit: fixed Containers height based on ratio of device to fix the positioning of the nav buttons
+e6ce0bd852e54000e0c359d039387a4c08f6914e 0883223342368cecf126d2944b35c5cb17f253ac Calvin Coderes <calvin.c.r.coderes@gmail.com> 1704352852 +0800	commit: adjusted styling: height, position, of card container and image banner for mpp to fix placement of navigation buttons at the bottom
+0883223342368cecf126d2944b35c5cb17f253ac b519cd0f558958de48c4bf139efa97eaebeea41c Calvin Coderes <calvin.c.r.coderes@gmail.com> 1704413233 +0800	commit: close to tags shows ellipsis on the seventh tag

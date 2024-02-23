@@ -1,0 +1,61 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = gitlab2dc:2damcreative/pmate-mobileapp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "develop"]
+	remote = origin
+	merge = refs/heads/develop
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "staging"]
+	remote = origin
+	merge = refs/heads/staging
+[branch "staging-1.4.2"]
+	remote = origin
+	merge = refs/heads/staging-1.4.2
+[branch "task/calvin/CU-865db836g-MPP-button-does-not-need-right-arrow"]
+	remote = origin
+	merge = refs/heads/task/calvin/CU-865db836g-MPP-button-does-not-need-right-arrow
+[branch "demo-1.4.2.110095"]
+	remote = origin
+	merge = refs/heads/demo-1.4.2.110095
+[branch "task/calvin/CU-860t2rr4c-unable-to-scroll-list-of-schools-for-a-selected-property"]
+	remote = origin
+	merge = refs/heads/task/calvin/CU-860t2rr4c-unable-to-scroll-list-of-schools-for-a-selected-property
+[branch "task/calvin/CU-865dart6d-inspection-dates-are-not-visible-in-property-details-screen"]
+	remote = origin
+	merge = refs/heads/task/calvin/CU-865dart6d-inspection-dates-are-not-visible-in-property-details-screen
+[branch "task/calvin/CU-865dart7h-nav-buttons-in-MPP-not-properly-formatted"]
+	remote = origin
+	merge = refs/heads/task/calvin/CU-865dart7h-nav-buttons-in-MPP-not-properly-formatted
+[branch "demo/1.4.3"]
+	remote = origin
+	merge = refs/heads/demo/1.4.3
+[branch "task/calvin/CU-86endt5hu-hide-travel-time-feature-for-offmarket-and-coming-soon-properties"]
+	vscode-merge-base = demo/1.4.3
+	remote = origin
+	merge = refs/heads/task/calvin/CU-86endt5hu-hide-travel-time-feature-for-offmarket-and-coming-soon-properties
+[branch "task/calvin/CU-86eneauc7-travel-time-add-public-transport"]
+	vscode-merge-base = main
+	remote = origin
+	merge = refs/heads/task/calvin/CU-86eneauc7-travel-time-add-public-transport
+[branch "demo/1.4.4"]
+	vscode-merge-base = main
+	remote = origin
+	merge = refs/heads/demo/1.4.4
+[branch "demo/1.4.5"]
+	remote = origin
+	merge = refs/heads/demo/1.4.5
+[branch "task/calvin/CU-86enkdc5j-HOTFIX-Map-icons-Layout-change"]
+	remote = origin
+	merge = refs/heads/task/calvin/CU-86enkdc5j-HOTFIX-Map-icons-Layout-change
+[branch "hotfix/calvin/CU-86enkdc5j-HOTFIX-Map-icons-Layout-change"]
+	remote = origin
+	merge = refs/heads/hotfix/calvin/CU-86enkdc5j-HOTFIX-Map-icons-Layout-change

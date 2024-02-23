@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 a3d40e870ec126a79047903594adb5c5738da2a6 Calvin Coderes <calvin.c.r.coderes@gmail.com> 1706140587 +0800	branch: Created from HEAD
+a3d40e870ec126a79047903594adb5c5738da2a6 e62007d190adc6e845dcba325695e73e13a72a40 Calvin Coderes <calvin.c.r.coderes@gmail.com> 1706254423 +0800	commit: Travel time public transport update
+e62007d190adc6e845dcba325695e73e13a72a40 3116773b2b16928ce0f600b4e01d90b88c5ad329 Calvin Coderes <calvin.c.r.coderes@gmail.com> 1706596294 +0800	commit: fixed map size, save search keyboard avoid padding
+3116773b2b16928ce0f600b4e01d90b88c5ad329 271389ef97a5eb27846b4776d8f9475c8a03ac10 Calvin Coderes <calvin.c.r.coderes@gmail.com> 1706758134 +0800	commit: adjusted mapHeight for smaller devices
+271389ef97a5eb27846b4776d8f9475c8a03ac10 abecafdb2c548e2e3244545fe5cbbf52a0e16dad Calvin Coderes <calvin.c.r.coderes@gmail.com> 1706846229 +0800	commit: Summary component, fixed dimensions of map, >1hr behavior
+abecafdb2c548e2e3244545fe5cbbf52a0e16dad 02a45e0a54dcf58f44905886f1d816481f16ac86 Calvin Coderes <calvin.c.r.coderes@gmail.com> 1707367626 +0800	commit: fixed and addressed QA findings: UI Fixes, Functional, Scroll bbehaviors
+02a45e0a54dcf58f44905886f1d816481f16ac86 7a383e7a2c2665c131455afb35f55245c4dc8665 Calvin Coderes <calvin.c.r.coderes@gmail.com> 1707369877 +0800	commit: adjusted margins and spacing of footer for scenario of limitaions
+7a383e7a2c2665c131455afb35f55245c4dc8665 80bd69152871df870f55917d4fc34e16ec60954c Calvin Coderes <calvin.c.r.coderes@gmail.com> 1707370100 +0800	rebase (finish): refs/heads/task/calvin/CU-86eneauc7-travel-time-add-public-transport onto 2ac89066fee2f429179c39ebd88e1491c65ec827
+80bd69152871df870f55917d4fc34e16ec60954c b846dd9e4606cdf46791677b0c7ae2fa325c49d2 Calvin Coderes <calvin.c.r.coderes@gmail.com> 1707377891 +0800	pull: Fast-forward
+b846dd9e4606cdf46791677b0c7ae2fa325c49d2 438fbf677ee5c3d3d574e3cf4c0ff2993e08fb43 Calvin Coderes <calvin.c.r.coderes@gmail.com> 1707379344 +0800	commit: fixed public transport selection on header when selecting public transport options;
+438fbf677ee5c3d3d574e3cf4c0ff2993e08fb43 034de0ed861def966e8bf941111ce40120420979 Calvin Coderes <calvin.c.r.coderes@gmail.com> 1707780263 +0800	pull: Fast-forward
